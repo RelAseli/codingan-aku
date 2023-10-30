@@ -3,5 +3,8 @@ Rencana :
 -html
 -css
 -javascript
+-php 
+jadi kita akan fokus di database
 
 POKONYA AKU MAU JADI ANAK NGODING BANGET
+
