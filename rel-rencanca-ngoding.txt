@@ -3,6 +3,8 @@ Rencana :
 -html
 -css
 -javascript
+>buat framawork js
+
 -php 
 jadi kita akan fokus di database
 
