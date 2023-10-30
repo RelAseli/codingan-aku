@@ -4,6 +4,7 @@ Rencana :
 -css
 -javascript
 >buat framawork js
+>pakai vue js
 
 -php 
 jadi kita akan fokus di database
